@@ -9,6 +9,8 @@ import java.awt.*;
 
 public class Customizations extends JFrame{
 
+    // Background color can be changed:
+    
     // Color name array
     private String[] colorNameArray = {"GRAY", "LIGHT GRAY", "GREEN", "BLACK"};
     // Color list array
@@ -71,4 +73,4 @@ public class Customizations extends JFrame{
     
 }
     // Character color can be changed
-    // Ingame texts can be changed
+
